@@ -13,7 +13,7 @@ public class Test {
             // For 5th (last) line: 3+4 = 7 so last value of j in 2nd for loop is 4 (or less than 5).
                 System.out.print(startingDigit+j);
             }
-            System.out.println();
+            System.out.println(); // move to next line. 
         }
         System.out.println();
         System.out.println();
