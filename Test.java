@@ -1,5 +1,6 @@
 public class Test {
     public static void main(String[] args) {
+
         printTriangle(5, 3);
         printTriangle(7, 1); // For TESTING purpose only !!!!
     } 
@@ -18,3 +19,5 @@ public class Test {
         System.out.println();
     }
 }
+
+
